@@ -1,6 +1,6 @@
 # MENTARI Manajemen Terpadu Pembelajaran Daring
 <p align="center">
-  <img width="250" height="250" 
+  <img width="2784" height="487" 
        alt="MentariLogo" 
        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSmAqnhMorKOYFkqBz8t8a2Q9GNHwuuPNlA&s" />
 </p>
