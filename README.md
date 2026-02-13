@@ -68,7 +68,7 @@ Ya — ekstensi ini berjalan sepenuhnya di sisi klien (client-side) dan **tidak 
 Pantau secara berkala repositori GitHub ini. Untuk memperbarui, hapus ekstensi lama dan instal ulang versi terbaru dengan mengikuti langkah instalasi di atas.
 
 **Fitur apa saja yang akan datang?**  
-Kami terbuka terhadap masukan dan ide fitur baru. Silakan buka [Issue baru](https://github.com/B-Test3301/dispute/issues) dan sampaikan saran Anda!
+Kami terbuka terhadap masukan dan ide fitur baru. Silakan buka [Issue baru](https://github.com/B-Test3301/Unpam-Mentari/issues) dan sampaikan saran Anda!
 
 ---
 ## 📢 Info Pembaharuan
