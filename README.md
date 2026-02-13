@@ -71,7 +71,7 @@ Pantau secara berkala repositori GitHub ini. Untuk memperbarui, hapus ekstensi l
 Kami terbuka terhadap masukan dan ide fitur baru. Silakan buka [Issue baru](https://github.com/B-Test3301/dispute/issues) dan sampaikan saran Anda!
 
 ---
-## Info Pembaharuan
+## 📢 Info Pembaharuan
 
 Info terbaru untuk extension unpam [announcement](https://github.com/B-Test3301/announcement).
 
