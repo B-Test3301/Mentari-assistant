@@ -2,7 +2,7 @@
 <p align="center">
   <img width="250" height="250" 
        alt="MentariLogo-DfuWb4z9 (1)" 
-       src="https://github.com/user-attachments/assets/6ecebb97-d284-400b-8b43-af36155e1888" />
+       src="[https://github.com/user-attachments/assets/6ecebb97-d284-400b-8b43-af36155e1888](https://mentari.unpam.ac.id/)" />
 </p>
 
 
